@@ -1,0 +1,14 @@
+このディレクトリに、tanakamura氏のwaifu2x-converter-cppを配置してください。
+
+library
+├models
+│├noise1_model.json
+│├noise2_model.json
+│└scale2.0x_model.json
+├models_rgb
+│├noise1_model.json
+│├noise2_model.json
+│└scale2.0x_model.json
+├w2xc.dll
+├w2xc.lib
+└w2xconv.h
