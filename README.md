@@ -10,4 +10,7 @@ waifu2xの高性能画像拡大機能を、ソフトウェアに容易に組み�
 waifu2xについては、ultraist様のサイトをご参照ください。
 http://ultraist.hatenablog.com/entry/2015/05/17/183436
 
-・当ライブラリは64BitOSのみサポートしています。
+当ライブラリはtanakamura様のw2xc.dllを使用しています。
+https://github.com/tanakamura/waifu2x-converter-cpp
+
+当ライブラリは64BitOSのみサポートしています。
