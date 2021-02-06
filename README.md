@@ -1,5 +1,5 @@
 # waifu2x-converter-sdk
-<a href="https://todosoft.net/software/software_details/Waifu2xConverterSdk/" target="_blank">http://marius.main.jp/software/software_details/Waifu2xConverterSdk/</a><br>
+<a href="https://todosoft.net/software/software_details/Waifu2xConverterSdk/" target="_blank">https://todosoft.net/software/software_details/Waifu2xConverterSdk/</a><br>
 <br>
 Visual Sudio向けのWaifu2x Converter SDKです。<br>
 waifu2xの高性能画像拡大機能を、ソフトウェアに容易に組み込むことができます。<br>
